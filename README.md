@@ -25,7 +25,7 @@ Your task is to create a Python script that analyzes the records to calculate ea
 5. The greatest decrease in losses (date and amount) over the entire period
 
 
-## Resutls
+## Results
 Your resulting analysis should look similar to the following:
 
   Financial Analysis
