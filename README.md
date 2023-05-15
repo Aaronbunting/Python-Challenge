@@ -1,10 +1,15 @@
-# Python-Challenge Background
+# Python Challenge
+
+## [Background](Background)
+## [Instructions](Instructions)
+## [Results](#Results)
 
 What You’re Creating
 In this assignment, you'll apply the concepts you've learned to complete the required PyBank Python activity and, if you wish to stretch your skills even further, the optional PyRamen Python activity. Both activities present a real-world situation in which your newfound Python skills will come in handy.
 
 In this assignment, you will create a Python script that analyzes the financial records of your company.  Inside your starter code, you will find a financial dataset in the budget_data.csv file. This dataset is composed of two columns, Date and Profit/Losses. (Thankfully, your company has rather lax standards for accounting, so the records are simple.)
 
+## Instructions
 Your task is to create a Python script that analyzes the records to calculate each of the following:
 
 1. The total number of months included in the dataset
@@ -17,6 +22,8 @@ Your task is to create a Python script that analyzes the records to calculate ea
 
 5. The greatest decrease in losses (date and amount) over the entire period
 
+
+## Resutls
 Your resulting analysis should look similar to the following:
 
   Financial Analysis
