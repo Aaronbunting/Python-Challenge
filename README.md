@@ -1,4 +1,4 @@
-# Python Challenge
+# Python Financial Analysis Challenge
 
 # Table of Contents
 * [Background](Background)
